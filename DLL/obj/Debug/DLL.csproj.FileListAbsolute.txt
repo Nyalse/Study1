@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 C:\Users\assup\OneDrive\Рабочий стол\DLL\bin\Debug\DLL.dll
 C:\Users\assup\OneDrive\Рабочий стол\DLL\bin\Debug\DLL.pdb
 C:\Users\assup\OneDrive\Рабочий стол\DLL\bin\Debug\Microsoft.Analytics.Interfaces.dll
@@ -18,3 +19,25 @@ C:\Users\assup\OneDrive\Рабочий стол\ConsoleApp1\DLL\obj\Debug\DLL.cs
 C:\Users\assup\OneDrive\Рабочий стол\ConsoleApp1\DLL\obj\Debug\DLL.csproj.Up2Date
 C:\Users\assup\OneDrive\Рабочий стол\ConsoleApp1\DLL\obj\Debug\DLL.dll
 C:\Users\assup\OneDrive\Рабочий стол\ConsoleApp1\DLL\obj\Debug\DLL.pdb
+=======
+C:\Users\assup\OneDrive\Рабочий стол\DLL\bin\Debug\DLL.dll
+C:\Users\assup\OneDrive\Рабочий стол\DLL\bin\Debug\DLL.pdb
+C:\Users\assup\OneDrive\Рабочий стол\DLL\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\assup\OneDrive\Рабочий стол\DLL\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\assup\OneDrive\Рабочий стол\DLL\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\assup\OneDrive\Рабочий стол\DLL\obj\Debug\DLL.csproj.AssemblyReference.cache
+C:\Users\assup\OneDrive\Рабочий стол\DLL\obj\Debug\DLL.csproj.CoreCompileInputs.cache
+C:\Users\assup\OneDrive\Рабочий стол\DLL\obj\Debug\DLL.csproj.Up2Date
+C:\Users\assup\OneDrive\Рабочий стол\DLL\obj\Debug\DLL.dll
+C:\Users\assup\OneDrive\Рабочий стол\DLL\obj\Debug\DLL.pdb
+C:\Users\assup\OneDrive\Рабочий стол\ConsoleApp1\DLL\bin\Debug\DLL.dll
+C:\Users\assup\OneDrive\Рабочий стол\ConsoleApp1\DLL\bin\Debug\DLL.pdb
+C:\Users\assup\OneDrive\Рабочий стол\ConsoleApp1\DLL\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\assup\OneDrive\Рабочий стол\ConsoleApp1\DLL\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\assup\OneDrive\Рабочий стол\ConsoleApp1\DLL\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\assup\OneDrive\Рабочий стол\ConsoleApp1\DLL\obj\Debug\DLL.csproj.AssemblyReference.cache
+C:\Users\assup\OneDrive\Рабочий стол\ConsoleApp1\DLL\obj\Debug\DLL.csproj.CoreCompileInputs.cache
+C:\Users\assup\OneDrive\Рабочий стол\ConsoleApp1\DLL\obj\Debug\DLL.csproj.Up2Date
+C:\Users\assup\OneDrive\Рабочий стол\ConsoleApp1\DLL\obj\Debug\DLL.dll
+C:\Users\assup\OneDrive\Рабочий стол\ConsoleApp1\DLL\obj\Debug\DLL.pdb
+>>>>>>> Stashed changes

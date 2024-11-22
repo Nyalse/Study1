@@ -30,3 +30,25 @@ C:\Users\assup\OneDrive\Рабочий стол\ConsoleApp1\bin\Debug\net8.0\DLL
 C:\Users\assup\OneDrive\Рабочий стол\ConsoleApp1\bin\Debug\net8.0\DLL.pdb
 C:\Users\assup\OneDrive\Рабочий стол\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.AssemblyReference.cache
 C:\Users\assup\OneDrive\Рабочий стол\ConsoleApp1\obj\Debug\net8.0\ConsoleA.CB28C8CC.Up2Date
+<<<<<<< Updated upstream
+=======
+D:\papkaD\Git\Study1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+D:\papkaD\Git\Study1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+D:\papkaD\Git\Study1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+D:\papkaD\Git\Study1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+D:\papkaD\Git\Study1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+D:\papkaD\Git\Study1\ConsoleApp1\bin\Debug\net8.0\DLL.dll
+D:\papkaD\Git\Study1\ConsoleApp1\bin\Debug\net8.0\DLL.pdb
+D:\papkaD\Git\Study1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.AssemblyReference.cache
+D:\papkaD\Git\Study1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\papkaD\Git\Study1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\papkaD\Git\Study1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+D:\papkaD\Git\Study1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\papkaD\Git\Study1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.sourcelink.json
+D:\papkaD\Git\Study1\ConsoleApp1\obj\Debug\net8.0\ConsoleA.CB28C8CC.Up2Date
+D:\papkaD\Git\Study1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+D:\papkaD\Git\Study1\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+D:\papkaD\Git\Study1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+D:\papkaD\Git\Study1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+D:\papkaD\Git\Study1\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
+>>>>>>> Stashed changes
