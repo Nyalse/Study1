@@ -16,8 +16,8 @@
   "libraries": {
     "DLL/1.0.0": {
       "type": "project",
-      "path": "../DLL/DLL.csproj",
-      "msbuildProject": "../DLL/DLL.csproj"
+      "path": "../DLL/DLL/DLL.csproj",
+      "msbuildProject": "../DLL/DLL/DLL.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -58,13 +58,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-<<<<<<< Updated upstream
-            "C:\\Users\\assup\\OneDrive\\Рабочий стол\\DLL\\DLL.csproj": {
-              "projectPath": "C:\\Users\\assup\\OneDrive\\Рабочий стол\\DLL\\DLL.csproj"
-=======
-            "D:\\papkaD\\Git\\Study1\\DLL\\DLL.csproj": {
-              "projectPath": "D:\\papkaD\\Git\\Study1\\DLL\\DLL.csproj"
->>>>>>> Stashed changes
+            "D:\\papkaD\\Git\\Study1\\DLL\\DLL\\DLL.csproj": {
+              "projectPath": "D:\\papkaD\\Git\\Study1\\DLL\\DLL\\DLL.csproj"
             }
           }
         }

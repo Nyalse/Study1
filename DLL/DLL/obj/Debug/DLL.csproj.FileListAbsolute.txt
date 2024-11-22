@@ -1,0 +1,10 @@
+D:\papkaD\Git\Study1\DLL\DLL\bin\Debug\DLL.dll
+D:\papkaD\Git\Study1\DLL\DLL\bin\Debug\DLL.pdb
+D:\papkaD\Git\Study1\DLL\DLL\bin\Debug\Microsoft.Analytics.Interfaces.dll
+D:\papkaD\Git\Study1\DLL\DLL\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+D:\papkaD\Git\Study1\DLL\DLL\bin\Debug\Microsoft.Analytics.Types.dll
+D:\papkaD\Git\Study1\DLL\DLL\obj\Debug\DLL.csproj.AssemblyReference.cache
+D:\papkaD\Git\Study1\DLL\DLL\obj\Debug\DLL.csproj.CoreCompileInputs.cache
+D:\papkaD\Git\Study1\DLL\DLL\obj\Debug\DLL.csproj.Up2Date
+D:\papkaD\Git\Study1\DLL\DLL\obj\Debug\DLL.dll
+D:\papkaD\Git\Study1\DLL\DLL\obj\Debug\DLL.pdb

@@ -33,13 +33,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-<<<<<<< Updated upstream
-              "C:\\Users\\assup\\OneDrive\\Рабочий стол\\DLL\\DLL.csproj": {
-                "projectPath": "C:\\Users\\assup\\OneDrive\\Рабочий стол\\DLL\\DLL.csproj"
-=======
-              "D:\\papkaD\\Git\\Study1\\DLL\\DLL.csproj": {
-                "projectPath": "D:\\papkaD\\Git\\Study1\\DLL\\DLL.csproj"
->>>>>>> Stashed changes
+              "D:\\papkaD\\Git\\Study1\\DLL\\DLL\\DLL.csproj": {
+                "projectPath": "D:\\papkaD\\Git\\Study1\\DLL\\DLL\\DLL.csproj"
               }
             }
           }
@@ -78,19 +73,11 @@
         }
       }
     },
-<<<<<<< Updated upstream
-    "C:\\Users\\assup\\OneDrive\\Рабочий стол\\DLL\\DLL.csproj": {
+    "D:\\papkaD\\Git\\Study1\\DLL\\DLL\\DLL.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\assup\\OneDrive\\Рабочий стол\\DLL\\DLL.csproj",
+        "projectUniqueName": "D:\\papkaD\\Git\\Study1\\DLL\\DLL\\DLL.csproj",
         "projectName": "DLL",
-        "projectPath": "C:\\Users\\assup\\OneDrive\\Рабочий стол\\DLL\\DLL.csproj",
-=======
-    "D:\\papkaD\\Git\\Study1\\DLL\\DLL.csproj": {
-      "restore": {
-        "projectUniqueName": "D:\\papkaD\\Git\\Study1\\DLL\\DLL.csproj",
-        "projectName": "DLL",
-        "projectPath": "D:\\papkaD\\Git\\Study1\\DLL\\DLL.csproj",
->>>>>>> Stashed changes
+        "projectPath": "D:\\papkaD\\Git\\Study1\\DLL\\DLL\\DLL.csproj",
         "frameworks": {
           "net472": {
             "projectReferences": {}

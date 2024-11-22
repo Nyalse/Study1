@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "D:\\papkaD\\Git\\Study1\\ConsoleApp1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A0501387-F6B9-4547-8572-626F75BE1540}|..\\DLL\\DLL\\DLL.csproj|d:\\papkad\\git\\study1\\dll\\dll\\myclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E0FA63D2-067D-414D-A213-3101AAA3199A}|ConsoleApp1.csproj|d:\\papkad\\git\\study1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E0FA63D2-067D-414D-A213-3101AAA3199A}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +22,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "myclass.cs",
+              "DocumentMoniker": "D:\\papkaD\\Git\\Study1\\DLL\\DLL\\myclass.cs",
+              "RelativeDocumentMoniker": "..\\DLL\\DLL\\myclass.cs",
+              "ToolTip": "D:\\papkaD\\Git\\Study1\\DLL\\DLL\\myclass.cs",
+              "RelativeToolTip": "..\\DLL\\DLL\\myclass.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T23:49:40.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\papkaD\\Git\\Study1\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\papkaD\\Git\\Study1\\ConsoleApp1\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwB8AAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAACAAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-21T14:38:37.114Z",
               "EditorCaption": ""

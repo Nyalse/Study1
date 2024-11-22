@@ -1,10 +1,6 @@
 {
   "version": 2,
-<<<<<<< Updated upstream
-  "dgSpecHash": "ljCVcgSbkvg=",
-=======
-  "dgSpecHash": "9rlfN6uX1tI=",
->>>>>>> Stashed changes
+  "dgSpecHash": "YlAJ+fCP8vU=",
   "success": true,
   "projectFilePath": "D:\\papkaD\\Git\\Study1\\ConsoleApp1\\ConsoleApp1.csproj",
   "expectedPackageFiles": [],
