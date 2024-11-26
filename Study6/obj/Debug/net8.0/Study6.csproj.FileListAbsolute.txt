@@ -1,0 +1,15 @@
+D:\papkaD\Git\Study1\Study6\bin\Debug\net8.0\Study6.exe
+D:\papkaD\Git\Study1\Study6\bin\Debug\net8.0\Study6.deps.json
+D:\papkaD\Git\Study1\Study6\bin\Debug\net8.0\Study6.runtimeconfig.json
+D:\papkaD\Git\Study1\Study6\bin\Debug\net8.0\Study6.dll
+D:\papkaD\Git\Study1\Study6\bin\Debug\net8.0\Study6.pdb
+D:\papkaD\Git\Study1\Study6\obj\Debug\net8.0\Study6.GeneratedMSBuildEditorConfig.editorconfig
+D:\papkaD\Git\Study1\Study6\obj\Debug\net8.0\Study6.AssemblyInfoInputs.cache
+D:\papkaD\Git\Study1\Study6\obj\Debug\net8.0\Study6.AssemblyInfo.cs
+D:\papkaD\Git\Study1\Study6\obj\Debug\net8.0\Study6.csproj.CoreCompileInputs.cache
+D:\papkaD\Git\Study1\Study6\obj\Debug\net8.0\Study6.sourcelink.json
+D:\papkaD\Git\Study1\Study6\obj\Debug\net8.0\Study6.dll
+D:\papkaD\Git\Study1\Study6\obj\Debug\net8.0\refint\Study6.dll
+D:\papkaD\Git\Study1\Study6\obj\Debug\net8.0\Study6.pdb
+D:\papkaD\Git\Study1\Study6\obj\Debug\net8.0\Study6.genruntimeconfig.cache
+D:\papkaD\Git\Study1\Study6\obj\Debug\net8.0\ref\Study6.dll

@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "D:\\papkaD\\Git\\Study1\\ConsoleApp1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{14DF5D59-789A-4B71-9471-41F4139BA178}|..\\Study6\\Study6.csproj|d:\\papkad\\git\\study1\\study6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4E981F1F-E256-4A9F-8F7C-ADAED4C236B4}|..\\Study5\\Study5.csproj|d:\\papkad\\git\\study1\\study5\\study5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -25,19 +28,31 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Study5.cs",
-              "DocumentMoniker": "D:\\papkaD\\Git\\Study1\\Study5\\Study5.cs",
-              "RelativeDocumentMoniker": "..\\Study5\\Study5.cs",
-              "ToolTip": "D:\\papkaD\\Git\\Study1\\Study5\\Study5.cs*",
-              "RelativeToolTip": "..\\Study5\\Study5.cs*",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\papkaD\\Git\\Study1\\Study6\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Study6\\Program.cs",
+              "ToolTip": "D:\\papkaD\\Git\\Study1\\Study6\\Program.cs*",
+              "RelativeToolTip": "..\\Study6\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T04:21:27.75Z",
+              "WhenOpened": "2024-11-26T05:32:28.856Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "Study5.cs",
+              "DocumentMoniker": "D:\\papkaD\\Git\\Study1\\Study5\\Study5.cs",
+              "RelativeDocumentMoniker": "..\\Study5\\Study5.cs",
+              "ToolTip": "D:\\papkaD\\Git\\Study1\\Study5\\Study5.cs",
+              "RelativeToolTip": "..\\Study5\\Study5.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T04:21:27.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "myclass.cs",
               "DocumentMoniker": "D:\\papkaD\\Git\\Study1\\DLL\\DLL\\myclass.cs",
               "RelativeDocumentMoniker": "..\\DLL\\DLL\\myclass.cs",
@@ -49,7 +64,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\papkaD\\Git\\Study1\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -57,7 +72,8 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAgwAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T14:38:37.114Z"
+              "WhenOpened": "2024-11-21T14:38:37.114Z",
+              "EditorCaption": ""
             }
           ]
         }
