@@ -34,6 +34,23 @@ else
 {
     Console.WriteLine("Строки равны");
 }
+if (str1 == str2)
+{
+    Console.WriteLine("Строки равны с использованием оператора ==");
+}
+else
+{
+    Console.WriteLine("Строки не равны с использованием оператора ==");
+}
+
+if (str1 != str2)
+{
+    Console.WriteLine("Строки не равны с использованием оператора !=");
+}
+else
+{
+    Console.WriteLine("Строки равны с использованием оператора !=");
+}
 Console.WriteLine("Введите текст:");
 string str3 = Console.ReadLine();
 Console.WriteLine("Введите символ, который нужно найти:");
@@ -52,6 +69,7 @@ else
 {
     Console.WriteLine("Этого имени нет в списке");
 }
+
 
 
 

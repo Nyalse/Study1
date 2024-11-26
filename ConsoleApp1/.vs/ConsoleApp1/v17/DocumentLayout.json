@@ -30,7 +30,7 @@
               "RelativeDocumentMoniker": "..\\Study5\\Study5.cs",
               "ToolTip": "D:\\papkaD\\Git\\Study1\\Study5\\Study5.cs",
               "RelativeToolTip": "..\\Study5\\Study5.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAADQAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADMAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-26T04:21:27.75Z",
               "EditorCaption": ""
@@ -45,8 +45,7 @@
               "RelativeToolTip": "..\\DLL\\DLL\\myclass.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAowCQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T23:49:40.245Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-22T23:49:40.245Z"
             },
             {
               "$type": "Document",
@@ -58,8 +57,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAgwAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T14:38:37.114Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-21T14:38:37.114Z"
             }
           ]
         }
