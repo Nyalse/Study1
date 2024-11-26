@@ -1,0 +1,15 @@
+D:\papkaD\Git\Study1\Study5\obj\Debug\net8.0\Study5.GeneratedMSBuildEditorConfig.editorconfig
+D:\papkaD\Git\Study1\Study5\obj\Debug\net8.0\Study5.AssemblyInfoInputs.cache
+D:\papkaD\Git\Study1\Study5\obj\Debug\net8.0\Study5.AssemblyInfo.cs
+D:\papkaD\Git\Study1\Study5\obj\Debug\net8.0\Study5.csproj.CoreCompileInputs.cache
+D:\papkaD\Git\Study1\Study5\obj\Debug\net8.0\Study5.sourcelink.json
+D:\papkaD\Git\Study1\Study5\bin\Debug\net8.0\Study5.exe
+D:\papkaD\Git\Study1\Study5\bin\Debug\net8.0\Study5.deps.json
+D:\papkaD\Git\Study1\Study5\bin\Debug\net8.0\Study5.runtimeconfig.json
+D:\papkaD\Git\Study1\Study5\bin\Debug\net8.0\Study5.dll
+D:\papkaD\Git\Study1\Study5\bin\Debug\net8.0\Study5.pdb
+D:\papkaD\Git\Study1\Study5\obj\Debug\net8.0\Study5.dll
+D:\papkaD\Git\Study1\Study5\obj\Debug\net8.0\refint\Study5.dll
+D:\papkaD\Git\Study1\Study5\obj\Debug\net8.0\Study5.pdb
+D:\papkaD\Git\Study1\Study5\obj\Debug\net8.0\Study5.genruntimeconfig.cache
+D:\papkaD\Git\Study1\Study5\obj\Debug\net8.0\ref\Study5.dll

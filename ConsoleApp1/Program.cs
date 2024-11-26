@@ -1,5 +1,6 @@
 ﻿using DLL;
 
+
 internal class Program
 {
     private static void Main(string[] args)
@@ -26,6 +27,7 @@ internal class Program
         }
         catch(System.FormatException) { Console.WriteLine("Неверно задан возраст");
             Console.WriteLine("Если у вас были какие то ошибки то, начните регистрацию сначала и проверьте корректность введенных данных");
+            
         }
         finally { Console.WriteLine("Приятного дня!");  }
 
