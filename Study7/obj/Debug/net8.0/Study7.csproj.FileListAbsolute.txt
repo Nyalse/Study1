@@ -1,0 +1,15 @@
+D:\papkaD\Git\Study1\Study7\bin\Debug\net8.0\Study7.exe
+D:\papkaD\Git\Study1\Study7\bin\Debug\net8.0\Study7.deps.json
+D:\papkaD\Git\Study1\Study7\bin\Debug\net8.0\Study7.runtimeconfig.json
+D:\papkaD\Git\Study1\Study7\bin\Debug\net8.0\Study7.dll
+D:\papkaD\Git\Study1\Study7\bin\Debug\net8.0\Study7.pdb
+D:\papkaD\Git\Study1\Study7\obj\Debug\net8.0\Study7.GeneratedMSBuildEditorConfig.editorconfig
+D:\papkaD\Git\Study1\Study7\obj\Debug\net8.0\Study7.AssemblyInfoInputs.cache
+D:\papkaD\Git\Study1\Study7\obj\Debug\net8.0\Study7.AssemblyInfo.cs
+D:\papkaD\Git\Study1\Study7\obj\Debug\net8.0\Study7.csproj.CoreCompileInputs.cache
+D:\papkaD\Git\Study1\Study7\obj\Debug\net8.0\Study7.sourcelink.json
+D:\papkaD\Git\Study1\Study7\obj\Debug\net8.0\Study7.dll
+D:\papkaD\Git\Study1\Study7\obj\Debug\net8.0\refint\Study7.dll
+D:\papkaD\Git\Study1\Study7\obj\Debug\net8.0\Study7.pdb
+D:\papkaD\Git\Study1\Study7\obj\Debug\net8.0\Study7.genruntimeconfig.cache
+D:\papkaD\Git\Study1\Study7\obj\Debug\net8.0\ref\Study7.dll
